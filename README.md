@@ -50,6 +50,8 @@ Frontend runs on http://localhost:3000
 
 <img width="653" height="903" alt="image" src="https://github.com/user-attachments/assets/011019d7-0a28-4aed-92de-055543adb9b1" />
 <img width="1126" height="278" alt="image" src="https://github.com/user-attachments/assets/24061e93-4f2e-4da7-9ceb-b3ed2c79a2d2" />
+<img width="1437" height="336" alt="image" src="https://github.com/user-attachments/assets/5349c89e-d5fd-4400-8639-95e2c54b1e0d" />
+<img width="1080" height="808" alt="image" src="https://github.com/user-attachments/assets/3938009a-0131-4635-9ff1-2abfd2776a93" />
 
 
 dsa-search-engine/
@@ -70,4 +72,5 @@ Contributions and suggestions are welcome! Fork the repo and submit a PR.
 
 Inspired by the need for better DSA problem discovery.
 Thanks to open-source libraries: React, Axios, FastAPI, scikit-learn.
+
 
